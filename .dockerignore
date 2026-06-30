@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.git/
+runs/
+mlruns/
+dataset/
+dataset_processed/
+*.log
+.ipynb_checkpoints/

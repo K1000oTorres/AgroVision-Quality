@@ -1,40 +1,21 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Virtual environments
+# Entornos virtuales
 .venv/
 venv/
 env/
 
-# VS Code
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Configuración del editor
 .vscode/
 
-# Jupyter
-.ipynb_checkpoints/
-
-# Dataset
-dataset/
-dataset_processed/
-
-# YOLO
-runs/
-
-# MLflow
-mlruns/
-
-# Modelos
-models/*.pt
-models/*.onnx
-models/*.engine
-
-# Logs
-*.log
-
-# Windows
+# Archivos del sistema
+.DS_Store
 Thumbs.db
 Desktop.ini
 
-# Mac
-.DS_Store
+# Imágenes del dataset
+dataset_processed/train/images/
+dataset_processed/valid/images/
+dataset_processed/test/images/

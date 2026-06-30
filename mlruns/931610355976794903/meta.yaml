@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/Juan Camilo Torres/Desktop/AgroVision Quality/mlruns/931610355976794903
+creation_time: 1782795945007
+effective_trace_archival_retention: null
+experiment_id: '931610355976794903'
+last_update_time: 1782795945007
+lifecycle_stage: active
+name: AgroVision-YOLOv8
+trace_location: null
+workspace: default

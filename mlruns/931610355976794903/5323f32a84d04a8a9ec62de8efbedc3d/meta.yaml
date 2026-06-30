@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Juan Camilo Torres/Desktop/AgroVision Quality/mlruns/931610355976794903/5323f32a84d04a8a9ec62de8efbedc3d/artifacts
+end_time: 1782811994613
+entry_point_name: ''
+experiment_id: '931610355976794903'
+lifecycle_stage: active
+run_id: 5323f32a84d04a8a9ec62de8efbedc3d
+run_name: YOLOv8n-img128-batch8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782795947550
+status: 3
+tags: []
+user_id: Juan Camilo Torres
